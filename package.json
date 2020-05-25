@@ -2,6 +2,7 @@
 	"name": "@ctx-core/disqus",
 	"version": "1.0.56",
 	"description": "ctx-core disqus integration",
+	"type": "module",
 	"main": "env.js",
 	"module": "env.js",
 	"scripts": {
