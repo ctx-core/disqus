@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "1.0.57",
+	"version": "1.0.58",
 	"description": "ctx-core disqus integration",
 	"type": "module",
 	"main": "env.js",
