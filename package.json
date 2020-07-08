@@ -2,8 +2,8 @@
 	"name": "@ctx-core/disqus",
 	"version": "1.0.67",
 	"description": "ctx-core disqus integration",
-	"main": "index.js",
-	"module": "index.js",
+	"main": "./index.js",
+	"module": "./index.js",
 	"types": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
