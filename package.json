@@ -1,32 +1,32 @@
 {
-  "name": "@ctx-core/disqus",
-  "version": "1.0.73",
-  "description": "ctx-core disqus integration",
-  "keywords": [
-    "ctx-core",
-    "dir"
-  ],
-  "homepage": "https://github.com/ctx-core/disqus#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/disqus/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/disqus/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "index.js",
-  "scripts": {
-    "exec": "$@"
-  },
-  "devDependencies": {
-    "svelte": "~3.25.1"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "8633f9e8f4a0c275469c10214ab1e45374d44358"
+	"name": "@ctx-core/disqus",
+	"version": "1.0.73",
+	"description": "ctx-core disqus integration",
+	"keywords": [
+		"ctx-core",
+		"dir"
+	],
+	"homepage": "https://github.com/ctx-core/disqus#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/disqus/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/disqus/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "index.js",
+	"scripts": {
+		"exec": "$@",
+		"build": "npm run compile"
+	},
+	"devDependencies": {
+		"svelte": "~3.25.1"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
