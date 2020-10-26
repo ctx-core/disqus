@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 1.0.79
+
+### Patch Changes
+
+- svelte: 3.29.3 -> 3.29.4
+
 ## 1.0.78
 
 ### Patch Changes
