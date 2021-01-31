@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.0
+
+### Major Changes
+
+- src directory
+
 ## 1.0.93
 
 ### Patch Changes
