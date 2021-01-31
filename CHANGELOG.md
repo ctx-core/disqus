@@ -1,5 +1,17 @@
 # @ctx-core/disqus
 
+## 2.0.2
+
+### Patch Changes
+
+- republish
+
+## 2.0.1
+
+### Patch Changes
+
+- republish
+
 ## 2.0.0
 
 ### Major Changes
