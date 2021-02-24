@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.8
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.7
 
 ### Patch Changes
