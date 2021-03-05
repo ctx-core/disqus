@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.12
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+
 ## 2.0.11
 
 ### Patch Changes
