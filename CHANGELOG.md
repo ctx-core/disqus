@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.13
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 2.0.12
 
 ### Patch Changes
