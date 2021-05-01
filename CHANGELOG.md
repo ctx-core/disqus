@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.19
+
+### Patch Changes
+
+- update dependencies
+
 ## 2.0.18
 
 ### Patch Changes
