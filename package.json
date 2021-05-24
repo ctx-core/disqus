@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "2.0.21",
+	"version": "2.0.22",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"author": "Brian Takita",
 	"main": "./src/index.js",
 	"module": "./src/index.js",
-	"types": "./src/index.ts",
+	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run compile",
 		"exec": "$@"

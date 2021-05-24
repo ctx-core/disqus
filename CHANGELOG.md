@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 2.0.22
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+
 ## 2.0.21
 
 ### Patch Changes
