@@ -1,7 +1,7 @@
 <script>
 export let account
 export let identifier
-$: js__identifier = JSON.stringify(identifier)
+$: identifier_js = JSON.stringify(identifier)
 </script>
 
 <div id="disqus_thread"></div>
@@ -14,7 +14,7 @@ $: js__identifier = JSON.stringify(identifier)
 	var disqus_config = function () {
 		this.page.url = window.location.href
 		var hrefSegments = window.location.pathname.split('/')
-		var identifier = ${js__identifier}
+		var identifier = ${identifier_js}
 		this.page.identifier = identifier
 	};
 	(function () { // DON'T EDIT BELOW THIS LINE

@@ -1,5 +1,12 @@
 # @ctx-core/disqus
 
+## 3.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 2.2.3
 
 ### Patch Changes
