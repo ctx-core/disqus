@@ -1,1 +1,0 @@
-../src/Disqus.svelte
