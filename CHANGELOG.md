@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 4.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 4.0.6
 
 ### Patch Changes
