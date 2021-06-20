@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 4.0.6
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 4.0.5
 
 ### Patch Changes
