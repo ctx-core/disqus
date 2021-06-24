@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 4.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 4.0.8
 
 ### Patch Changes
