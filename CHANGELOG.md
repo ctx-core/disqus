@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 4.0.10
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.9
 
 ### Patch Changes
