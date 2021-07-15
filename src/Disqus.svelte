@@ -1,6 +1,6 @@
-<script>
-export let account
-export let identifier
+<script lang="ts">
+export let account:string
+export let identifier:string
 $: identifier_js = JSON.stringify(identifier)
 </script>
 
