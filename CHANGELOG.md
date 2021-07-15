@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 5.0.1
 
 ### Patch Changes
