@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 4.0.20
 
 ### Patch Changes
