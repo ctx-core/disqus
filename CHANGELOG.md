@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 5.0.3
 
 ### Patch Changes
