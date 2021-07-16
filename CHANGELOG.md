@@ -1,5 +1,17 @@
 # @ctx-core/disqus
 
+## 5.0.14
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 5.0.13
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 5.0.12
 
 ### Patch Changes
