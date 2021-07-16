@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 5.0.9
 
 ### Patch Changes
