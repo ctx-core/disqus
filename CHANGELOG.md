@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.11
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.10
 
 ### Patch Changes
