@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.12
+
+### Patch Changes
+
+- - tsconfig.tsbuildinfo
+
 ## 5.0.11
 
 ### Patch Changes
