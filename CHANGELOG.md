@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.15
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+
 ## 5.0.14
 
 ### Patch Changes
