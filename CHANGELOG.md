@@ -1,5 +1,12 @@
 # @ctx-core/disqus
 
+## 5.0.19
+
+### Patch Changes
+
+- svelte: 3.40.0 -> 3.40.1
+- update dependencies
+
 ## 5.0.18
 
 ### Patch Changes
