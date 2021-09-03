@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.0.47",
+	"version": "5.0.48",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.63",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.64",
 		"svelte": "3.42.4",
 		"typescript": "^4.4.2"
 	},
