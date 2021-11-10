@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.66
+
+### Patch Changes
+
+- compile using swc
+
 ## 5.0.65
 
 ### Patch Changes
