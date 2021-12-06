@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.75
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 5.0.74
 
 ### Patch Changes
