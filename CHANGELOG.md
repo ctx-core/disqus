@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.73
+
+### Patch Changes
+
+- @swc/core: ^1.2.117 -> ^1.2.118
+
 ## 5.0.72
 
 ### Patch Changes
