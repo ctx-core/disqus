@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.77
+
+### Patch Changes
+
+- package.json: - module
+
 ## 5.0.76
 
 ### Patch Changes
