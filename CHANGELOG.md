@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.79
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 5.0.78
 
 ### Patch Changes
