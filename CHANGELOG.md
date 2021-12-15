@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.81
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 5.0.80
 
 ### Patch Changes
