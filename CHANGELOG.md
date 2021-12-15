@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.82
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 5.0.81
 
 ### Patch Changes
