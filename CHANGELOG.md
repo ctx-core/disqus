@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.84
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 5.0.83
 
 ### Patch Changes
