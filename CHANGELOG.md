@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.83
+
+### Patch Changes
+
+- fix: build
+
 ## 5.0.82
 
 ### Patch Changes
