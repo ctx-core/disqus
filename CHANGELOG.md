@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.85
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 5.0.84
 
 ### Patch Changes
