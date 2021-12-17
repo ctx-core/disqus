@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.86
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 5.0.85
 
 ### Patch Changes
