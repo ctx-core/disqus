@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.87
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 5.0.86
 
 ### Patch Changes
