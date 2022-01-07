@@ -1,5 +1,12 @@
 # @ctx-core/disqus
 
+## 5.0.89
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- svelte: ^3.44.3 -> ^3.45.0
+
 ## 5.0.88
 
 ### Patch Changes
