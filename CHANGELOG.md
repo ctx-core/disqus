@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.90
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 5.0.89
 
 ### Patch Changes

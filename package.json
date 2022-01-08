@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.0.89",
+	"version": "5.0.90",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -50,5 +50,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
