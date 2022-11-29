@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.109
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.20 -> ^0.5.21
+
 ## 5.0.108
 
 ### Patch Changes
