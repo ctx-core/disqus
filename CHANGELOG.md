@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.112
+
+### Patch Changes
+
+- svelte-preprocess: ^4.10.7 -> ^5.0.0
+
 ## 5.0.111
 
 ### Patch Changes
