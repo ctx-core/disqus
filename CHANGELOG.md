@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.117
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 5.0.116
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.0.116",
+	"version": "5.0.117",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.59",
 		"@swc/core": "^1.3.26",
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.0.1",
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.0",
 		"svelte2tsx": "^0.6.0",
