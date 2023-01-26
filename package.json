@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.0.119",
+	"version": "5.0.120",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.1",
 		"svelte2tsx": "^0.6.0",
-		"tslib": "^2.4.1",
+		"tslib": "^2.5.0",
 		"typescript": "next"
 	},
 	"publishConfig": {

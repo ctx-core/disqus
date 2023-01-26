@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.120
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+
 ## 5.0.119
 
 ### Patch Changes
