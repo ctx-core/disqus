@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.0.121
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 5.0.120
 
 ### Patch Changes
