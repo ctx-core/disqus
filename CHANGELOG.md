@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.1.31
+
+### Patch Changes
+
+- version bump
+
 ## 5.1.30
 
 ### Patch Changes
