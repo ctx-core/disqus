@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.1.33",
+	"version": "5.2.0",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,14 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./chdir",
+		"./env"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
