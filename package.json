@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.2.12",
+	"version": "5.2.13",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",

@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.2.13
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 5.2.12
 
 ### Patch Changes
