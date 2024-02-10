@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.2.17
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 5.2.16
 
 ### Patch Changes
