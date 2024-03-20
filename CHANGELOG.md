@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.2.20
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 5.2.19
 
 ### Patch Changes
