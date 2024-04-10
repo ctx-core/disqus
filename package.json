@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/disqus",
-	"version": "5.2.20",
+	"version": "5.2.21",
 	"description": "ctx-core disqus integration",
 	"keywords": [
 		"ctx-core",
@@ -55,6 +55,6 @@
 	},
 	"sideEffects": false,
 	"dependencies": {
-		"svelte": "^4.2.12"
+		"svelte": "^4.2.13"
 	}
 }
