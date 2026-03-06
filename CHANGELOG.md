@@ -1,5 +1,11 @@
 # @ctx-core/disqus
 
+## 5.2.29
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 5.2.28
 
 ### Patch Changes
